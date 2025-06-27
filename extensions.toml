@@ -45,7 +45,7 @@ version = "0.0.2"
 
 [alabaster-dark]
 submodule = "extensions/alabaster-dark"
-version = "0.0.2"
+version = "0.0.3"
 
 [amber]
 submodule = "extensions/amber"
@@ -880,6 +880,10 @@ version = "0.0.8"
 [gruber-flavors]
 submodule = "extensions/gruber-flavors"
 version = "0.8.0"
+
+[gruvbox-baby]
+submodule = "extensions/gruvbox-baby"
+version = "0.0.1"
 
 [gruvbox-crisp-themes]
 submodule = "extensions/gruvbox-crisp-themes"
@@ -1987,7 +1991,7 @@ version = "0.0.2"
 
 [ruby]
 submodule = "extensions/ruby"
-version = "0.9.0"
+version = "0.10.0"
 
 [ruff]
 submodule = "extensions/zed"
@@ -2221,11 +2225,11 @@ version = "0.2.8"
 
 [svelte-snippets]
 submodule = "extensions/svelte-snippets"
-version = "0.0.3"
+version = "0.0.5"
 
 [swift]
 submodule = "extensions/swift"
-version = "0.4.1"
+version = "0.4.2"
 
 [symbols]
 submodule = "extensions/symbols"
@@ -2320,6 +2324,10 @@ version = "0.1.4"
 [tomorrow-min-theme]
 submodule = "extensions/tomorrow-min-theme"
 version = "1.1.0"
+
+[tomorrow-night-burns-theme]
+submodule = "extensions/tomorrow-night-burns-theme"
+version = "0.0.1"
 
 [tomorrow-theme]
 submodule = "extensions/tomorrow-theme"
